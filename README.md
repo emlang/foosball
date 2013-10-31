@@ -1,0 +1,4 @@
+foosball
+========
+
+Digital foosball counter
